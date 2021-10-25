@@ -10,7 +10,7 @@
     <h4> :ok_hand: Python & Django </h4>
     
     <h3> :wave: <b>Frontend</b></h3> 
-    <h4> :boom: SPA Framework : React, Next, Vue </h4>
+    <h4> :boom: SPA Framework : React, Next, Vue, Angular </h4>
     <h4> :fire: Traditional Stack Based on Dom : Vanila Script, jQuery, Bootstrap, CSS3, HTML</h4>
 
 - 🌱 I’m currently learning Gatsby.js and Three.js
