@@ -1,6 +1,7 @@
 <img src="./background.png">
 <h1>Hi, This is Tony, experienced full stack developer. 👋</h1>
-
+<h1>Below messages are my client's review for me<h1>
+<p><a>*"Tony is a very skilled programmer and project manager. I've had the pleasure of working with him, and he's not only a great guy, but he's an excellent problem-solver. We had a platform that was a mess from another programmer when we passed it along, and he was able to assess the situation, make a suggestion, and execute the project on time and on budget. I would recommend considering Tony in the mix should you have a project that is a good fit"*</a></p>
 
 <!--
 **tony-fullstack-515/tony-fullstack-515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
