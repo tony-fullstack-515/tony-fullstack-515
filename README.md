@@ -12,7 +12,11 @@
     <h3> :wave: <b>Frontend</b></h3> 
     <h4> :boom: SPA Framework : React, Next, Vue, Angular </h4>
     <h4> :fire: Traditional Stack Based on Dom : Vanila Script, jQuery, Bootstrap, CSS3, HTML</h4>
-
+    
+    <h3> :wave: <b>Database</b></h3> 
+    <h4> :boom: SQL : Postgre, Mysql, Mariodb </h4>
+    <h4> :fire: NoSQL & Cache : Couch, Mongo, Redis</h4>
+    
 - 🌱 I’m currently learning Gatsby.js and Three.js
 - 📫 How to reach me: skype-live:.cid.3c1ad9073f878c5, email: tony.fullstack.dev@gmail.com             
 - ⚡ Fun fact: Basketball, Table-tennis, Listening Music.
