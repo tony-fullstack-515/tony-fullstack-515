@@ -4,7 +4,7 @@
 
 - 🔭 Recently, I have been working on a project aimed at giving our customers the ability to improve the citywave service in our mobile and web apps alongside the existing Citywavemard.com. Although this project has been a very fast-paced and challenging one, it’s been highly rewarding having the chance to work end to end on a project that has complexity not only from the engineering side but also from the product and operations side. And, it’s been even more rewarding knowing that we are building something our customers will use and love from the moment we launch.
 - <h2>:star2: Here are my stack.</h2>
-    <h3> :wave: <b>Backend</b></h3> 
+    <h3> :wave: <b>Backend</b> <a href="https://www.google.com/" target="_blank">Google</a></h3> 
     <h4> :boom: PHP & Framework : Core PHP, Laravel & Lumen (5.x~8.x), CodeIgniter 2.x,3.x,4.x, Symfony 3.x,4.x,5.x </h4>
     <h4> :fire: ES6 & Framework : Node, Express </h4>
     <h4> :ok_hand: Python & Django </h4>
