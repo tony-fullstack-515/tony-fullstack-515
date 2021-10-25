@@ -1,13 +1,12 @@
 <img src="./background.png">
 <h1>Hi, This is Tony, experienced full stack developer. 👋</h1>
-<a href="https://www.linkedin.com/in/zou-wang-88397519a/"><h4><i>"Tony is a very skilled programmer and project manager. I've had the pleasure of working with him, and he's not only a great guy, but he's an excellent problem-solver. We had a platform that was a mess from another programmer when we passed it along, and he was able to assess the situation, make a suggestion, and execute the project on time and on budget. I would recommend considering Tony in the mix should you have a project that is a good fit"</h4></i></a>
+<a href="https://www.linkedin.com/in/zou-wang-88397519a/"><h4><i>"_Tony is a very skilled programmer and project manager. I've had the pleasure of working with him, and he's not only a great guy, but he's an excellent problem-solver. We had a platform that was a mess from another programmer when we passed it along, and he was able to assess the situation, make a suggestion, and execute the project on time and on budget. I would recommend considering Tony in the mix should you have a project that is a good fit_"</h4></i></a>
 
+- 🔭 Recently, I have been working on a project aimed at giving our customers the ability to improve the citywave service in our mobile and web apps alongside the existing Citywavemard.com
 
-**tony-fullstack-515/tony-fullstack-515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In order to get these new service listings in front of our customers, we’ve had to enhance our data infrastructure by adding an entirely new data pipeline for booking service listings; modifying our website to handle the presentation of a new listing type that has a personal booking plus business or family model listing format; and finally, creating new data models for tracking and managing booking requests scheduled with new service. This project involves a considerable amount of cross-team collaboration across multiple surface areas and the entire development stack. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+Although this project has been a very fast-paced and challenging one, it’s been highly rewarding having the chance to work end to end on a project that has complexity not only from the engineering side but also from the product and operations side. And, it’s been even more rewarding knowing that we are building something our customers will use and love from the moment we launch.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
