@@ -4,13 +4,19 @@
 
 - 🔭 Recently, I have been working on a project aimed at giving our customers the ability to improve the citywave service in our mobile and web apps alongside the existing Citywavemard.com. Although this project has been a very fast-paced and challenging one, it’s been highly rewarding having the chance to work end to end on a project that has complexity not only from the engineering side but also from the product and operations side. And, it’s been even more rewarding knowing that we are building something our customers will use and love from the moment we launch.
 - <h2>:star2: Here are my stack.</h2>
-    <h3> :wave: Backend</h3> 
+    <h3> :wave: <b>Backend</b></h3> 
     <h4> :boom: PHP & Framework </h4>
         <h5>&nbsp&nbsp&nbsp&nbsp&nbsp Core PHP, Laravel & Lumen (5.x~8.x), CodeIgniter 2.x,3.x,4.x, Symfony 3.x,4.x,5.x</h5>        
     <h4> :fire: ES6 & Framework </h4>
         <h5>&nbsp&nbsp&nbsp&nbsp&nbsp Node, Express</h5>
     <h4> :ok_hand: Python & Framework </h4>
         <h5>&nbsp&nbsp&nbsp&nbsp&nbsp Python, Django</h5>
+    
+    <h3> :wave: <b>Frontend</b></h3> 
+    <h4> :boom: SPA Framework </h4>
+        <h5>&nbsp&nbsp&nbsp&nbsp&nbsp React, Next, Vue</h5>        
+    <h4> :boom: Traditional Stack Based on Dom  </h4>
+        <h5>&nbsp&nbsp&nbsp&nbsp&nbsp Vanila Script, jQuery, Bootstrap, CSS3, HTML </h4>
 
 - 🌱 I’m currently learning Gatsby.js and Three.js
 - 📫 How to reach me: skype-live:.cid.3c1ad9073f878c5, email: tony.fullstack.dev@gmail.com             
