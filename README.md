@@ -6,16 +6,16 @@
 - :star2: Here are my stack.
     <h3> :wave: Backend</h3> 
     <h4> :boom: PHP & Framework </h4>
-        <h5>Core PHP</h5>
-        <h5>Laravel & Lumen (5.x~8.x)</h5>
-        <h5>CodeIgniter 2.x,3.x,4.x</h5>
-        <h5>Symfony 3.x,4.x,5.x</h5>
+        <h5>- Core PHP</h5>
+        <h5>- Laravel & Lumen (5.x~8.x)</h5>
+        <h5>- CodeIgniter 2.x,3.x,4.x</h5>
+        <h5>- Symfony 3.x,4.x,5.x</h5>
     <h4> :fire: ES6 & Framework </h4>
-        <h5>Node</h5>
-        <h5>Express</h5>
+        <h5>- Node</h5>
+        <h5>- Express</h5>
     <h4> :ok_hand: Python & Framework </h4>
-        <h5>Python</h5>
-        <h5>Django</h5>
+        <h5>- Python</h5>
+        <h5>- Django</h5>
 
 - 🌱 I’m currently learning Gatsby.js and Three.js
 - 📫 How to reach me: skype-live:.cid.3c1ad9073f878c5, email: tony.fullstack.dev@gmail.com             
